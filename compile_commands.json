@@ -1,0 +1,14 @@
+[
+  {
+    "file": "main.c",
+    "arguments": [
+      "/usr/bin/clang",
+      "main.c",
+      "-o",
+      "main",
+      "-I/opt/homebrew/opt/raylib/include"
+    ],
+    "directory": "/Users/matteofortino/Code/raylib_projects/double_pendulum",
+    "output": "main"
+  }
+]
